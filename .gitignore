@@ -1,0 +1,8 @@
+# Junk
+###########
+.DS_Store
+Thumbs.db
+*.pyc
+*.project
+*.pydevproject
+

@@ -1,0 +1,8 @@
+ARNOLD_PLUGIN_PATH=/opt/solidangle/mtoa/2019/shaders
+LC_ALL=C
+LD_LIBRARY_PATH=/opt/solidangle/mtoa/2019/plug-ins:/usr/autodesk/maya2019/lib:/usr/autodesk/maya2019/plug-ins/xgen/lib:/usr/autodesk/maya2019/plug-ins/bifrost/lib:
+MAYA_PLUG_IN_PATH=/opt/solidangle/mtoa/2019/plug-ins
+MAYA_RENDER_DESC_PATH=/opt/solidangle/mtoa/2019
+MAYA_SCRIPT_PATH=/opt/solidangle/mtoa/2019/scripts
+PATH=/usr/autodesk/maya2019/bin:/opt/solidangle/mtoa/2019/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+PYTHONPATH=/opt/solidangle/mtoa/2019/scripts
